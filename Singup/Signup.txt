@@ -1,5 +1,5 @@
 
-Hello Sinup COmponent ==> Harika 
+Hello Sinup Component ==> Harika 
 
 Done local code changes ==<> Abhishek
-Helllo Singup COmponent 
+Helllo Singup Component 
